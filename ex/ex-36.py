@@ -12,3 +12,4 @@ while True:
     sair = int(input('deseja sair 1 para sair e 0 para continuar '))
     if sair == 1:
         break
+    
